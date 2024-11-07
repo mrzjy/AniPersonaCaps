@@ -20,7 +20,7 @@ While usable, the current version is still under development. Further updates an
 
 | Wiki Creation Year                                     | Anime Characters                                     |
 |--------------------------------------------------------|------------------------------------------------------|
-| <img src="images/wiki_creation_year.png" height="128"> | <img src="images/anime_characters.png" height="128"> |
+| <img src="images/wiki_creation_year.png" height="200"> | <img src="images/anime_characters.png" height="200"> |
 
 ## Showcase
 
