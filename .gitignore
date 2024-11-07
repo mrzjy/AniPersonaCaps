@@ -1,0 +1,43 @@
+# Python
+__pycache__
+*.pyc
+*.egg-info
+dist
+logs
+.venv
+private/
+.cache/
+*.pkg
+.env
+
+tmp.py
+tmp.json*
+tmp/
+
+# Log
+*.log
+*.log.*
+*.json
+*.jsonl
+.ipynb_checkpoints/
+# Editor
+.idea
+*.swp
+
+# Other
+.DS_Store
+
+# Data
+*.pkl
+*.csv
+*.rdb
+
+# Build
+build
+
+data
+
+# Image data
+serve_images
+val2014
+vqa_examples
