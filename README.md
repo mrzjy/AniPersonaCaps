@@ -18,9 +18,9 @@ While usable, the current version is still under development. Further updates an
 
 ## Statistics
 
-| Wiki Creation Year                                     | Anime Characters                                     |
-|--------------------------------------------------------|------------------------------------------------------|
-| <img src="images/wiki_creation_year.png" height="200"> | <img src="images/anime_characters.png" height="200"> |
+| Wiki Creation Year                                     | Anime Characters                                    |
+|--------------------------------------------------------|-----------------------------------------------------|
+| <img src="images/wiki_creation_year.png" height="256"> | <img src="images/anime_characters.png" height="256"> |
 
 ## Showcase
 
