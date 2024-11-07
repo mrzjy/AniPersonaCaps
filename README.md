@@ -98,3 +98,8 @@ There are cases where appearance or personality is wrongly located, resulting in
 ```
 
 It's clear that in fact there's no Appearance in the "appearance" field. The original "Appearance" section of the webpage is actually just a link (one should go there to really grab the appearance content)
+
+## What's Next
+
+- Update of AniPersonaCaps
+- GamePersonaCaps is on its way! Please stay tuned.
